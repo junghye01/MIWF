@@ -13,5 +13,4 @@ Solving the optimization problem above can be thought of as solving the KKT syst
 <img src = "./img/waterfilling3.jpg>
 
 the algorithm that I solved 
-
-<img src = "./img/waterfilling.jpg>
+![waterfilling](https://user-images.githubusercontent.com/109332374/192106558-a4db822d-d675-4c71-b8a1-54578738555a.jpg)
